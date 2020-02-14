@@ -21,7 +21,7 @@ How will your translation achieve this?
        ![project 2](images/3.png)
 
 ## Project 3
-### I want to create an interactive game by incorporating Arduino or raspberry pi. It will be an animated face on the screen where will be controlled by the sensors attached to Arduino/raspberry pi. The user can control the face movement by changing their behavior such as voice/distance/touch, etc.
+### I want to create an interactive installation by incorporating Arduino or raspberry pi. It will be an animated face on the screen where will be controlled by the sensors attached to Arduino/raspberry pi. The user can control the face movement by changing their behavior such as voice/distance/touch, etc.
 Who is the user?
 	General audience
 What do you want them to experience?
