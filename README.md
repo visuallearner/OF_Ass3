@@ -31,7 +31,8 @@ How will your translation achieve this?
    ![project 3](images/2.png)
    
    ## OF drawings
-   ###    ![project 3](images/assgn3.gif)
+   ###    
+   ![project 3](images/assign3.gif)
 ![project 3](images/ass1.png)
          ![project 3](images/ass2.png)
             ![project 3](images/ass3.png)
